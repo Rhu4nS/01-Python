@@ -1,5 +1,5 @@
 
-'''
+
 
 Faça um programa que receba a idade do usuário e diga se ele é maior ou menor de idade.	
 
@@ -53,7 +53,7 @@ print(sorted(lista))
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Escreva um programa que receba dois números e um sinal, e faça a operação matemática definida pelo sinal.
-'''
+
 
 n1 = int(input("Digite o primeiro número: "))
 sinal = input("Digite o sinal: ")
